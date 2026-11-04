@@ -1,0 +1,39 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/vendor
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+auth.json
+
+# Laravel runtime files
+/storage/*.key
+/storage/app/private
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*
+/bootstrap/cache/*.php
+
+# Logs
+*.log
+npm-debug.log
+yarn-error.log
+
+# IDE
+/.fleet
+/.idea
+/.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.phpunit.result.cache
