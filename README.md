@@ -1,4 +1,4 @@
-﻿# CareerLaunch â€” Aplikasi Pengembangan Karier
+﻿# CareerLaunch - Aplikasi Pengembangan Karier
 
 CareerLaunch merupakan aplikasi berbasis web yang dikembangkan sebagai proyek tim akademik untuk mata kuliah Software Engineering.
 
@@ -117,3 +117,4 @@ Repository ini dipublikasikan sebagai dokumentasi dan referensi portofolio. Kont
 ---
 
 **CareerLaunch â€” Proyek Akademik Software Engineering (2025)**
+
